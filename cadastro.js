@@ -38,6 +38,6 @@ document.getElementById("formCadastro")
 
     alert("Cadastro realizado com sucesso!");
 
-    window.location.href = "login.html";
+    window.location.href = "Login.html";
 
 });
