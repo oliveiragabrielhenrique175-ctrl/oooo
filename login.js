@@ -23,7 +23,6 @@ document.getElementById("formLogin")
         );
 
         alert("Login realizado com sucesso!");
-
         window.location.href = "index.html";
 
     }else{
@@ -33,7 +32,6 @@ document.getElementById("formLogin")
     }
 
 });
-
 
 const usuario =
     JSON.parse(localStorage.getItem("usuarioLogado"));
