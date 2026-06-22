@@ -24,7 +24,7 @@ document.getElementById("formLogin")
 
         alert("Login realizado com sucesso!");
 
-        window.location.href = "Hub.html";
+        window.location.href = "index.html";
 
     }else{
 
